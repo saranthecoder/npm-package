@@ -1,0 +1,8 @@
+/src
+/node_modules
+/deploy.txt
+
+.env
+
+tsconfig.json
+tsup.config.ts 
