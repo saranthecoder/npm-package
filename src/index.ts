@@ -1,5 +1,4 @@
-// this is the main file
-// made changes
+// this is the main file done
 export * from './functions';
 export * from './types';
 
