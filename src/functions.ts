@@ -1,4 +1,4 @@
-
+// This function ios not good
 import { SayHElloProps } from "./types";
 
 export function sayHello({firstName, lastName, age}:SayHElloProps){
