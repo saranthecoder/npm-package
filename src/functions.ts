@@ -1,5 +1,5 @@
+// This is function
 import { SayHElloProps } from "./types";
-
 
 export function sayHello({firstName, lastName, age}:SayHElloProps){
 
