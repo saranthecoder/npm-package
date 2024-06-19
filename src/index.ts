@@ -1,4 +1,4 @@
-// this is the main file
+
 export * from './functions';
 export * from './types';
 
